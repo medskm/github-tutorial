@@ -42,3 +42,10 @@ While you don't need to know the other commands, `cd` is a command on the comman
 "change directory", since I need to go into the github-tutorial directory to access the
 git repository code. `vim` is a tool on the command line that opens and text editor so 
 I can quickly create a file (similar to Atom or Sublime).
+
+Here's a second commit to push this `README.md` with the screenshots you've seen on this
+tutorial!
+
+![second commit](screenshots/commit-2.png)
+
+![second push](screenshots/git-push-2.png)
